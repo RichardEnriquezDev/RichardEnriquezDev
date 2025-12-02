@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Richard Enriquez Dev
 
-<!--
-**RichardEnriquezDev/RichardEnriquezDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Future Software Developer | Technical Support | Networking
 
-Here are some ideas to get you started:
+I'm Richard, a tech enthusiast with experience in PC repair, networking and system maintenance.  
+Currently building my path into Software Development and learning the fundamentals of clean, scalable code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Tech Background
+- PC hardware repair & diagnostics  
+- Network troubleshooting  
+- System maintenance  
+- Basic scripting and automation  
+
+---
+
+## 🌱 Currently Learning
+- Python basics  
+- HTML, CSS & JavaScript  
+- Git & GitHub  
+- Algorithms and problem solving  
+
+---
+
+## 🎯 Goals 2025–2026
+- Become a Full-Stack Developer  
+- Build real-world projects  
+- Start freelancing in tech  
+- Join software development teams or internships  
+
+---
+
+## 📫 Contact
+**Email:** richard.enriquez.dev@gmail.com  
